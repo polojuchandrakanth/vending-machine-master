@@ -1,0 +1,12 @@
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\bin\Debug\netcoreapp2.1\vendingmachine.csv
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\Chandu\Downloads\vending-machine-master\vending-machine-master\Capstone\obj\Debug\netcoreapp2.1\Capstone.genruntimeconfig.cache
